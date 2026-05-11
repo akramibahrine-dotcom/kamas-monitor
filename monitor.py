@@ -29,10 +29,11 @@ from bs4 import BeautifulSoup
 URL = "https://www.leskamas.com/en-gb/sell-kamas.html"
 
 # Each target: server name (as shown on the site), min Dhs/M, max Dhs/M
+# max=999 means "no upper bound" — alert for any price at or above min.
 TARGETS = [
-    {"server": "Imagiro",  "min": 6.0,  "max": 7.0},
-    {"server": "TalKasha", "min": 6.0,  "max": 7.0},
-    {"server": "Dakal",    "min": 11.0, "max": 13.0},
+    {"server": "Imagiro",  "min": 6.5,  "max": 999},
+    {"server": "TalKasha", "min": 6.0,  "max": 999},
+    {"server": "Dakal",    "min": 12.0, "max": 999},
 ]
 
 REMINDER_HOURS = 24          # Re-send while still in range, at most every N hours
