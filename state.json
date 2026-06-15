@@ -2,25 +2,25 @@
   "servers": {
     "Imagiro": {
       "last_status": "below_range",
-      "last_price": 5.35,
+      "last_price": 5.104,
       "last_site_status": "Sourcing",
       "last_alert_iso": "2026-05-11T01:49:53.017125+00:00",
-      "last_checked_iso": "2026-06-15T14:34:28.982284+00:00"
+      "last_checked_iso": "2026-06-15T19:08:16.932445+00:00"
     },
     "TalKasha": {
       "last_status": "below_range",
-      "last_price": 5.061,
+      "last_price": 5.243,
       "last_site_status": "Sourcing",
       "last_alert_iso": "2026-05-31T15:06:34.115408+00:00",
-      "last_checked_iso": "2026-06-15T14:34:28.982284+00:00"
+      "last_checked_iso": "2026-06-15T19:08:16.932445+00:00"
     },
     "Dakal": {
       "last_status": "below_range",
-      "last_price": 9.726,
+      "last_price": 10.165,
       "last_site_status": "Sourcing",
       "last_alert_iso": "2026-06-08T05:00:27.088988+00:00",
-      "last_checked_iso": "2026-06-15T14:34:28.982284+00:00"
+      "last_checked_iso": "2026-06-15T19:08:16.932445+00:00"
     }
   },
-  "last_checked_iso": "2026-06-15T14:34:28.982284+00:00"
+  "last_checked_iso": "2026-06-15T19:08:16.932445+00:00"
 }
