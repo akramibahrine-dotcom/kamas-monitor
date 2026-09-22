@@ -5,22 +5,22 @@
       "last_price": 3.745,
       "last_site_status": "Sourcing",
       "last_alert_iso": "2026-05-11T01:49:53.017125+00:00",
-      "last_checked_iso": "2026-09-22T04:52:18.147549+00:00"
+      "last_checked_iso": "2026-09-22T09:55:58.696635+00:00"
     },
     "TalKasha": {
       "last_status": "below_range",
-      "last_price": 4.066,
+      "last_price": 3.959,
       "last_site_status": "Sourcing",
       "last_alert_iso": "2026-05-31T15:06:34.115408+00:00",
-      "last_checked_iso": "2026-09-22T04:52:18.147549+00:00"
+      "last_checked_iso": "2026-09-22T09:55:58.696635+00:00"
     },
     "Dakal": {
       "last_status": "below_range",
-      "last_price": 7.907,
+      "last_price": 7.897,
       "last_site_status": "Full",
       "last_alert_iso": "2026-07-13T07:35:17.142759+00:00",
-      "last_checked_iso": "2026-09-22T04:52:18.147549+00:00"
+      "last_checked_iso": "2026-09-22T09:55:58.696635+00:00"
     }
   },
-  "last_checked_iso": "2026-09-22T04:52:18.147549+00:00"
+  "last_checked_iso": "2026-09-22T09:55:58.696635+00:00"
 }
